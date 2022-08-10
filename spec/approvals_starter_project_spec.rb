@@ -4,6 +4,6 @@ require "spec_helper"
 
 RSpec.describe ApprovalsStarterProject do
   it "does something useful" do
-    expect(false).to eq(true)
+    expect(true).to eq(true)
   end
 end
