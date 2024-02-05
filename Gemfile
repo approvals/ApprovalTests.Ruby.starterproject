@@ -3,4 +3,4 @@
 source "https://rubygems.org"
 
 gem "rake", "~> 13.1"
-gem "rspec", "~> 3.12"
+gem "rspec", "~> 3.13"
