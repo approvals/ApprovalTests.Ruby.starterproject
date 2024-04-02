@@ -2,5 +2,5 @@
 
 source "https://rubygems.org"
 
-gem "rake", "~> 13.1"
+gem "rake", "~> 13.2"
 gem "rspec", "~> 3.13"
